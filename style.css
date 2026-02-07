@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,p{
+    border: 5px solid rgb(6, 17, 136);
+    text-align: center;
+}
+
+h1,p{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* top, right, bootom, left*/
+    /* top-bottom left-right*/
+    /* all */
+    margin: 10px 10px 10px 10px;
+}
+
+h1,p{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* top, right, bootom, left*/
+    /* top-bottom left-right*/
+    /* all */
+    padding: 20px 50px 20px 50px;
+}
+
+img{
+    float: right
+}
